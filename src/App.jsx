@@ -18,7 +18,7 @@ function App() {
       </Routes>
 
       <footer>
-        <p>&copy; Tim the Bin</p>
+        <p>&copy; Cord</p>
       </footer>
     </BrowserRouter>
   );
